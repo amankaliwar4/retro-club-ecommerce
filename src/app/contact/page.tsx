@@ -54,10 +54,10 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Address</h3>
                     <p className="text-gray-600 text-sm">
-                      29A, GURU NANAKPURA<br />
-                      NEAR CAPITAL PETROL PUMP<br />
-                      RAISEN ROAD, BHOPAL<br />
-                      M.P. 462023, Dist.-BHOPAL
+                      SHOP NO-245/12, PHATAK KAROR ROAD<br />
+                      NEAR NEAR AJMERI GATE<br />
+                      DELHI<br />
+                      110006
                     </p>
                   </div>
                 </div>
