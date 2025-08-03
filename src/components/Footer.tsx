@@ -81,8 +81,8 @@ export default function Footer() {
               <div className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-purple-400 mt-1 flex-shrink-0" />
                 <div className="text-gray-300 text-sm">
-                  29A, GURU NANAKPURA, NEAR CAPITAL PETROL PUMP, RAISEN ROAD, BHOPAL<br />
-                  M.P. 462023, Dist.-BHOPAL
+                  SHOP NO-245/12, PHATAK KAROR ROAD, NEAR NEAR AJMERI GATE<br />
+                  DELHI, 110006
                 </div>
               </div>
               <div className="flex items-center space-x-3">
